@@ -1,0 +1,20 @@
+{
+  "name": "programacionbackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "2dodesafio.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node 2dodesafio.js",
+    "dev": "nodemon 2dodesafio.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  },
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
